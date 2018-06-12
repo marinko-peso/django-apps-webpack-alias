@@ -18,7 +18,7 @@ This way you can generate Webpack alias for all Django apps automatically and le
 ## Install
 
 ```ssh
-npm -i -D django-apps-webpack-alias
+npm i -D django-apps-webpack-alias
 ```
 
 
@@ -42,4 +42,4 @@ All aliases point to app/static/app/js directory.
 
 ## License
 
-MIT
+MIT.
