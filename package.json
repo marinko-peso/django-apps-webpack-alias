@@ -1,6 +1,6 @@
 {
   "name": "django-apps-webpack-alias",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically discovery django apps folder and create webpack alias for them with the app name",
   "main": "dist/django-apps-webpack-alias.min.js",
   "module": "dist/django-apps-webpack-alias.es.js",
