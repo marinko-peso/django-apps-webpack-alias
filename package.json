@@ -2,9 +2,15 @@
   "name": "django-apps-webpack-alias",
   "version": "0.0.0",
   "description": "Automatically discovery django apps folder and create webpack alias for them with the app name",
-  "main": "src/index.js",
+  "main": "dist/django-apps-webpack-alias.min.js",
+  "module": "dist/django-apps-webpack-alias.es.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "release": "np",
+    "lint": "eslint .",
+    "build": "npm run clean:dist && bili",
+    "clean:dist": "del-cli dist/* !dist/.gitkeep",
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",

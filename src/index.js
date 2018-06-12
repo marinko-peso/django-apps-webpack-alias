@@ -14,7 +14,7 @@ const isDjangoApp = it => {
     return false;
   }
   return exists(it, 'static') && exists(it, '__init__.py');
-}
+};
 
 const djangoAppsAlias = (options = {}) => {
   const { dir, prefix } = Object.assign(config, options);

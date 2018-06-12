@@ -2,8 +2,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![license](https://img.shields.io/github/license/marinko-peso/django-apps-webpack-alias.svg)](https://github.com/marinko-peso/django-apps-webpack-alias/blob/master/LICENSE)
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/Flet/semistandard)
-[![package version](https://img.shields.io/npm/v/server-reach-by-image.svg)](https://npm.im/server-reach-by-image)
-[![install size](https://packagephobia.now.sh/badge?p=server-reach-by-image)](https://packagephobia.now.sh/result?p=server-reach-by-image)
+[![package version](https://img.shields.io/npm/v/django-apps-webpack-alias.svg)](https://npm.im/django-apps-webpack-alias)
+[![install size](https://packagephobia.now.sh/badge?p=django-apps-webpack-alias)](https://packagephobia.now.sh/result?p=django-apps-webpack-alias)
 [![dependecies](https://david-dm.org/marinko-peso/django-apps-webpack-alias.svg)](https://david-dm.org/marinko-peso/django-apps-webpack-alias)
 
 Automatically discovery django apps folder and create webpack alias for them with the app name.
@@ -18,7 +18,7 @@ This way you can generate Webpack alias for all Django apps automatically and le
 ## Install
 
 ```ssh
-work in progress
+npm -i -D django-apps-webpack-alias
 ```
 
 
