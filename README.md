@@ -5,6 +5,7 @@
 [![package version](https://img.shields.io/npm/v/django-apps-webpack-alias.svg)](https://npm.im/django-apps-webpack-alias)
 [![install size](https://packagephobia.now.sh/badge?p=django-apps-webpack-alias)](https://packagephobia.now.sh/result?p=django-apps-webpack-alias)
 [![dependecies](https://david-dm.org/marinko-peso/django-apps-webpack-alias.svg)](https://david-dm.org/marinko-peso/django-apps-webpack-alias)
+[![codecov](https://codecov.io/gh/marinko-peso/django-apps-webpack-alias/branch/master/graph/badge.svg)](https://codecov.io/gh/marinko-peso/django-apps-webpack-alias)
 
 Automatically discovery django apps folder and create webpack alias for them with the app name.
 

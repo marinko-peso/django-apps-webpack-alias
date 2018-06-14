@@ -1,4 +1,4 @@
-const djangoAppsAlias = require('./../src/index');
+const djangoAppsAlias = require('./../index');
 const testAppsPath = '__tests__/dummy_project/dummy_app_structure';
 
 describe('detect proper app structure from dummy folder', () => {
