@@ -14,6 +14,7 @@ Automatically discovery django apps folder and create webpack alias for them wit
 
 If you need to start using Webpack on a Django organized project it can be a pain. Static files are usually organized per django app, and communication between them using relative paths can soon become messy.
 This way you can generate Webpack alias for all Django apps automatically and let Webpack handle the messy part for you.
+If you are using Jest (and you should) also check out [django-apps-jest-mapper](https://npm.im/django-apps-jest-mapper) to follow same naming in both configurations.
 
 
 ## Install
