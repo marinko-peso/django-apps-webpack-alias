@@ -36,7 +36,7 @@ alias: {
 ```
 
 Available options:
-- dir [default 'apps'] path to directory holding the apps
+- dir [default 'apps'] path to directory holding the apps (example: path.resolve(__dirname, 'project/apps'))
 - prefix [default '@app:'] each app alias prefix, for instance for auth app it will generate ``` @app:auth ```
 
 All aliases point to app/static/app/js directory.
